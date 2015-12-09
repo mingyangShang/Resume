@@ -23,10 +23,10 @@
 - 2015-10-09 至 2015-12-05 腾讯MIG智能平台产品部
 
 ### 技术能力
-- 语言按熟悉程度排行：java,python,c++/c,html/css/js
+- 语言按熟悉程度排行：java,python,c++/c,js/html/css,objective-c
 - 熟悉android开发，研读过部分系统源码和优秀框架
 - 掌握基本java、python服务器开发
-- 熟悉linux环境，掌握
+- 熟悉linux基本使用，目前作为日常开发环境
 - 基本理解OOAD，了解常用设计模式
 
 ### 社区活动

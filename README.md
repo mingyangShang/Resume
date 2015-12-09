@@ -23,11 +23,11 @@
 - 2015-10-09 至 2015-12-05 腾讯MIG智能平台产品部
 
 ### 技术能力
-语言按熟悉程度排行：java,python,c++/c,html/css/js
-熟悉android开发，研读过部分系统源码和优秀框架
-掌握基本java、python服务器开发
-熟悉linux环境，掌握
-基本理解OOAD，了解常用设计模式
+- 语言按熟悉程度排行：java,python,c++/c,html/css/js
+- 熟悉android开发，研读过部分系统源码和优秀框架
+- 掌握基本java、python服务器开发
+- 熟悉linux环境，掌握
+- 基本理解OOAD，了解常用设计模式
 
 ### 社区活动
 - Csdn博客：[http://blog.csdn.net/shangmingyang](http://blog.csdn.net/shangmingyang)<br />
@@ -45,6 +45,5 @@
 &nbsp;&nbsp;&nbsp;&nbsp;喜欢编程,喜欢完成自己想做的东西的成就感,喜欢和志同道合的小伙伴带着自己的梦想朝着目标努力,喜欢向大神学习并梦想成为和他们一样甚至更强 <br />
 &nbsp;&nbsp;&nbsp;&nbsp;天赋不高,但是自认为够勤奋,有恒心,从大学之前的未接触过电脑到现在能做出能让自己和别人用上的东西,还是学到了很多自己感兴趣的知识<br />
 &nbsp;&nbsp;&nbsp;&nbsp;个人座右铭:干自己该做的事,做自己想做的人
-
 
 

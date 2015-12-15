@@ -24,6 +24,7 @@
 
 ### 技术能力
 - 语言按熟悉程度排行：java,python,c++/c,js/html/css,objective-c
+- 了解云计算相关概念、大致工作流程
 - 熟悉android开发，研读过部分系统源码和优秀框架
 - 掌握基本java、python服务器开发
 - 熟悉linux基本使用，目前作为日常开发环境
